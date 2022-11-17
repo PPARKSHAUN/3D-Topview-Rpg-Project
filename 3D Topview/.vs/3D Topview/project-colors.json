@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "기타 파일",
       "ColorIndex": -1
+    },
+    "ab5b733a-8f6f-b432-c139-0fa53efa108e": {
+      "ProjectGuid": "ab5b733a-8f6f-b432-c139-0fa53efa108e",
+      "DisplayName": "MonsterLove.StateMachine.Runtime",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
